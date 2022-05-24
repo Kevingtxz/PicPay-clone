@@ -1,6 +1,5 @@
-package com.kevingtxz.picpayclone.entities;
+package com.kevingtxz.picpayclone.entity;
 
-import com.kevingtxz.picpayclone.entities.enums.CardFlag;
 import lombok.*;
 
 import javax.persistence.*;

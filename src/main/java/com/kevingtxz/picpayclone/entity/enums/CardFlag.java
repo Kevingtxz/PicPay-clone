@@ -1,8 +1,7 @@
-package com.kevingtxz.picpayclone.entities.enums;
+package com.kevingtxz.picpayclone.entity.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 
 @Getter
 @AllArgsConstructor

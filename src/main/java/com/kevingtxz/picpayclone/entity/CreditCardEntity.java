@@ -1,6 +1,6 @@
-package com.kevingtxz.picpayclone.entities;
+package com.kevingtxz.picpayclone.entity;
 
-import com.kevingtxz.picpayclone.entities.enums.CardFlag;
+import com.kevingtxz.picpayclone.entity.enums.CardFlag;
 import lombok.Getter;
 import lombok.Setter;
 
