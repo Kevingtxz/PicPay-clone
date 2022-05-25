@@ -1,4 +1,4 @@
-package com.kevingtxz.picpayclone.exceptions;
+package com.kevingtxz.picpayclone.resource.exceptions;
 
 import com.kevingtxz.picpayclone.dto.ErrorDTO;
 import org.springframework.beans.factory.annotation.Autowired;

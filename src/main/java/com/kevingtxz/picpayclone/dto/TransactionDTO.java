@@ -21,6 +21,8 @@ public class TransactionDTO {
     private LocalDateTime dateTime;
     @NotNull
     private UserDTO userDestiny;
+    @NotNull
+    private Double value;
     private CreditCardDTO creditCard;
     private Boolean isCreditCard = false;
 }

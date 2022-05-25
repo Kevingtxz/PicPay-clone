@@ -1,4 +1,4 @@
-package com.kevingtxz.picpayclone.entity;
+package com.kevingtxz.picpayclone.entity.abstractbase;
 
 import lombok.Getter;
 import lombok.Setter;

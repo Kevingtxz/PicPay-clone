@@ -1,4 +1,4 @@
-package com.kevingtxz.picpayclone.resource;
+package com.kevingtxz.picpayclone.resource.abstractbase;
 
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
@@ -9,7 +9,7 @@ import java.net.URI;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class BaseResource<T> {
+public abstract class ResourceBase<T> {
 
     protected ResponseEntity<T> resItemCreated(T obj) {
         return ResponseEntity.status(HttpStatus.CREATED).body(obj);

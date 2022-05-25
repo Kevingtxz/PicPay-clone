@@ -1,6 +1,7 @@
 package com.kevingtxz.picpayclone.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
+import com.kevingtxz.picpayclone.entity.enums.CardFlag;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -20,6 +21,8 @@ public class CreditCardDTO {
     private String expirationDate;
     @NotBlank
     private String ownerName;
+    @NotBlank
+    private CardFlag flag;
     @NotNull
     private UserDTO user;
     private String number;

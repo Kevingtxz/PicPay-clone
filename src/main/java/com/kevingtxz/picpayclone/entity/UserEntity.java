@@ -1,5 +1,6 @@
 package com.kevingtxz.picpayclone.entity;
 
+import com.kevingtxz.picpayclone.entity.abstractbase.EntityBase;
 import lombok.*;
 
 import javax.persistence.*;
