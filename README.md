@@ -6,3 +6,6 @@ Intellij:
 <img src="https://github.com/Kevingtxz/PicPay-clone/blob/main/git_img/intellij.png?raw=true">
 Swagger:
 <img src="https://github.com/Kevingtxz/PicPay-clone/blob/main/git_img/swagger.png?raw=true">
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
